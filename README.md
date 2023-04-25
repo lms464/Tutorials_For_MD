@@ -11,3 +11,18 @@ This directory is made for individuals interested in learning a little about MD.
 - ModifyLipids holds a short tutorial for hacking together custom molecules.
 
 - Reads *under development*
+
+## Getting these files
+
+```
+git clone git@github.com:lms464/Tutorials_For_MD.git
+
+```
+
+## Getting updates
+
+```
+
+git pull
+
+```
